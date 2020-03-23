@@ -1,6 +1,6 @@
 # ThinkPad-P1-gen2-Hackintosh
 # 中文版
-# 联想ThinkPad P1&X1E GEN2上的macOS（本指南也适用于P52s i7-8550u，8250u理论上应该通用，不适用T480s）
+# 联想ThinkPad P1&X1E GEN2上的macOS
 
 此存储库包含10.14,10.15在Lenovo ThinkPad P1&X1E gen2上运行macOS（目前为Mojave，Catalina ）的示例配置
 --------------------------------------------------------------------------
