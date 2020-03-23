@@ -6,7 +6,7 @@
 --------------------------------------------------------------------------
 #相关设置
 
-* SD卡读卡器走usb3.0通道，需要打开此USB端口即可使用
+* SD卡读卡器走usb3.0通道，需要打开此USB端口即可使用，无此设备无法精确定制usb补丁。
 
 * Thunderbolt 3【BIOS里需要设置“Thunderbolt BIOS Assist”：Disable，“Security level” :No Security(允许自动连接 Thunderbolt 设备)。这样即可使前端类型USB type-c端口在macOS中工作，可以热插拔， DP / HDMI通过USB type-C：视频工作正常，连接扩展坞正常，雷电3设备工作正常，热插拔正常】
 
