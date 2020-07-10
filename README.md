@@ -12,7 +12,7 @@
 
 * 机器自带独立的HDMI走独显，不正常，独显已屏蔽。
 
-* 键盘Synaptics触摸板（PS / 2）使用ApplePS2SmartTouchPad.kext，EMlyDinEsH的v4.7b5，支持多点触控手势。
+* 键盘Synaptics触摸板（PS / 2）使用ApplePS2SmartTouchPad.kext，EMlyDinEsH的v4.7b5，支持多点触控手势。clover5118版本已经替换为voodooPS2
 * 睡眠和唤醒正常
 
 已禁用的设备和BIOS设置
